@@ -1,2 +1,7 @@
 # machine-learning-experiment
- Machine Learning Experiment
+
+Machine Learning Experiment
+
+## License
+
+Code license is MIT.
